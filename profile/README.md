@@ -10,6 +10,8 @@ A team of aspiring developers to work on fun projects together
 
 ## Upcoming Projects
 
+Head [here](https://github.com/VivaLaCode/.github/discussions) to discuss them.
+
 ### Schema
 
 1. **Project Title**: name of the project
